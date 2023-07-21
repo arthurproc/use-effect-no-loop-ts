@@ -1,0 +1,7 @@
+{
+  "extends": "@trybe/eslint-config-frontend/typescript",
+  "rules": {
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "react/jsx-max-depth": "off"
+  }
+}
